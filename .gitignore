@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+CurrentData/
+Data/
+models/
+rosters/
+scalers/
+OLD/
+NHL_predict_FP_getdata.ipynb
+NBA_predict_FP_getmoredata.ipynb
+NBA_predict_FP_getseason_data.ipynb
+NBA_predict_FP_moredata_makepreds.ipynb
+*.csv
+*.pkl
