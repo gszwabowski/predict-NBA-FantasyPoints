@@ -1,5 +1,5 @@
 # predict-NBA-FantasyPoints
-Development of LightGBM regressors for predicting NHL Fantasy Points
+Development of LightGBM regressors for predicting NBA Fantasy Points
 
 ## Description
 
