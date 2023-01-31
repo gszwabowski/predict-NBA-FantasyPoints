@@ -12,6 +12,7 @@ This GitHub repository houses Jupyter notebooks that allow for the development a
 * *NBA_predict_FP_moredata_RF_models.ipynb*: develop Random Forest regressors with *n_estimators* = 1000 for each position (G, F, C) to predict fantasy points
 * *NBA_predict_FP_getseason_data-github.ipynb*: get fantasy scoring data from StatHead for all NBA players for the current season that predictions will be made for
 * *NBA_predict_FP_moredata_makepreds-github.ipynb*: get recent fantasy scoring data, merge with year-to-date fantasy scoring data, perform ETL, make aggregate predictions with LGBM and RF models, optimize lineups
+* *NBA_predict_FP_assessment.ipynb*: get fantasy scoring results from the previous day and compare predicted fantasy points to actual fantasy points via calculation of mean absolute error values
 
 
 ## Dependencies
@@ -21,7 +22,7 @@ This GitHub repository houses Jupyter notebooks that allow for the development a
 
 ## Output
 
-Optimized fantasy lineups for a slate of games (where 9 players are selected for a lineup by position) or a single game (where 5 players are selected and positions don't matter).
+Optimized fantasy lineups for a slate of games (where 9 players are selected for a lineup by position) or a single game (where 5 players are selected and positions don't matter). The *predictions/* directory houses my player predictions for each position by date.
 
 ## Authors
 
