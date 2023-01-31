@@ -1,5 +1,5 @@
 # predict-NBA-FantasyPoints
-Development of LightGBM regressors for predicting NBA Fantasy Points
+Development of LightGBM and Random Forest regressors for aggregate predictions of NBA Fantasy Points
 
 ## Description
 
